@@ -1,0 +1,20 @@
+h1{
+color: #fff;
+font-family: 'Roboto', sans-serif;
+}
+.bg-choiz{
+    background: rgb(255,161,92);
+background: linear-gradient(214deg, rgba(255,161,92,1) 0%, rgba(255,91,146,1) 45%, rgba(119,28,254,1) 100%);
+    height: 458px;
+}
+.bg-light{
+    background-color: transparent!important;
+}
+.ellipse{
+    position:absolute;
+    z-index: 900;
+}
+.nav-link{
+    color: #fff!important;
+    font-family: 'Roboto', sans-serif!important;
+}
